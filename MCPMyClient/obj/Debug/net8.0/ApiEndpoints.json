@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "YourAppNamespace.Controllers.McpChatController",
+    "Method": "Ask",
+    "RelativePath": "api/McpChat/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userInput",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YourAppNamespace.Controllers.McpChatController",
+    "Method": "ListTools",
+    "RelativePath": "api/McpChat/tools",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
