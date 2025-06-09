@@ -1,0 +1,3 @@
+The project is based on model context protocol integrated with local ollama model.
+It has multiple  tools(flight status, exchange rates, days of week, weather api)
+for e.g. To get the current flight status , prompt as flight status of us airline(iata:AA100) to get current report of that flight...
